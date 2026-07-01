@@ -11,7 +11,7 @@ Includes: All MP3 files + Lyrics PDFs for each language.
 
 ## List of Songs
 
-Hausa:
+### Hausa:
 
 Lion na Ƙarfi Mai Girma
 
@@ -25,7 +25,7 @@ Mu Yi Tushen Ginin
 
 Yana Saukowa Da Tsawa
 
-Amharic:
+### Amharic:
 
 የአንበሳ ጥንካሬ ያለው ኃያል
 
@@ -39,7 +39,7 @@ Amharic:
 
 እንደ እምበር ድምጽ ወርዶ ይመጣል
 
-Zulu:
+### Zulu:
 
 Amandla eNgonyama
 
@@ -53,7 +53,7 @@ NguBani Ozohlwanyela Imbewu
 
 Uyehla Ngomsindo Wokuduma
 
-Malay:
+### Malay:
 
 Singa yang Berkuasa
 
@@ -67,7 +67,7 @@ Siapa yang Akan Menabur Benih
 
 Dia Turun dengan Gemuruh Guruh
 
-Thai:
+### Thai:
 
 พระองค์คือผู้ทรงฤทธิ์เหมือนสิงโต
 
