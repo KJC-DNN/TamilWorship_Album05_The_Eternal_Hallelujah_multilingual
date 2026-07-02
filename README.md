@@ -13,6 +13,8 @@ Includes: All MP3 files + Lyrics PDFs for each language.
 
 ### Hausa:
 
+Album 5 - Hallelujah Madawwami (The Eternal Hallelujah)
+
 Lion na Ƙarfi Mai Girma
 
 Za Mu Je Yahuda?
@@ -26,6 +28,8 @@ Mu Yi Tushen Ginin
 Yana Saukowa Da Tsawa
 
 ### Amharic:
+
+Album 5 - የዘላለም ሃሌሉያ (The Eternal Hallelujah)
 
 የአንበሳ ጥንካሬ ያለው ኃያል
 
@@ -41,6 +45,8 @@ Yana Saukowa Da Tsawa
 
 ### Zulu:
 
+Album 5 - I-Hallelujah Ephakade (The Eternal Hallelujah)
+
 Amandla eNgonyama
 
 Siya kuJuda?
@@ -55,6 +61,8 @@ Uyehla Ngomsindo Wokuduma
 
 ### Malay:
 
+Album 5 - Hallelujah yang Kekal (The Eternal Hallelujah)
+
 Singa yang Berkuasa
 
 Bolehkah Kita Pergi ke Yehuda?
@@ -68,6 +76,8 @@ Siapa yang Akan Menabur Benih
 Dia Turun dengan Gemuruh Guruh
 
 ### Thai:
+
+Album 5 - ฮาเลลูยาห์นิรันดร์ (The Eternal Hallelujah)
 
 พระองค์คือผู้ทรงฤทธิ์เหมือนสิงโต
 
