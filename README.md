@@ -11,9 +11,7 @@ Includes: All MP3 files + Lyrics PDFs for each language.
 
 ## List of Songs
 
-### Hausa:
-
-Album 5 - Hallelujah Madawwami (The Eternal Hallelujah)
+### Hausa: Album 5 - Hallelujah Madawwami (The Eternal Hallelujah)
 
 Lion na Ƙarfi Mai Girma
 
@@ -27,9 +25,7 @@ Mu Yi Tushen Ginin
 
 Yana Saukowa Da Tsawa
 
-### Amharic:
-
-Album 5 - የዘላለም ሃሌሉያ (The Eternal Hallelujah)
+### Amharic: Album 5 - የዘላለም ሃሌሉያ (The Eternal Hallelujah)
 
 የአንበሳ ጥንካሬ ያለው ኃያል
 
@@ -43,9 +39,7 @@ Album 5 - የዘላለም ሃሌሉያ (The Eternal Hallelujah)
 
 እንደ እምበር ድምጽ ወርዶ ይመጣል
 
-### Zulu:
-
-Album 5 - I-Hallelujah Ephakade (The Eternal Hallelujah)
+### Zulu: Album 5 - I-Hallelujah Ephakade (The Eternal Hallelujah)
 
 Amandla eNgonyama
 
@@ -59,9 +53,7 @@ NguBani Ozohlwanyela Imbewu
 
 Uyehla Ngomsindo Wokuduma
 
-### Malay:
-
-Album 5 - Hallelujah yang Kekal (The Eternal Hallelujah)
+### Malay: Album 5 - Hallelujah yang Kekal (The Eternal Hallelujah)
 
 Singa yang Berkuasa
 
@@ -75,9 +67,7 @@ Siapa yang Akan Menabur Benih
 
 Dia Turun dengan Gemuruh Guruh
 
-### Thai:
-
-Album 5 - ฮาเลลูยาห์นิรันดร์ (The Eternal Hallelujah)
+### Thai: Album 5 - ฮาเลลูยาห์นิรันดร์ (The Eternal Hallelujah)
 
 พระองค์คือผู้ทรงฤทธิ์เหมือนสิงโต
 
